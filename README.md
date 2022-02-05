@@ -30,7 +30,7 @@
     <img align="left" alt="MiKee | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:msp99000@gmail.com">
-    <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
   </a>
  
 <br />
