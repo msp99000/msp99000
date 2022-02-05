@@ -15,20 +15,19 @@
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar
-- ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
-- 📝[Resume]()
+- ✍ Read my articles @ [Hashnode](https://mikee.hashnode.dev/), [Dev](https://dev.to/msp99000), [FreeCode Camp](https://www.freecodecamp.org/msp99000)
 
 
 ### Connect with me:  
 
 <a href="https://linkedin.com/in/msp99000">
-    <img align="left" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="MiKee | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/msp99000">
-    <img align="left" alt="Hillary Nyakundi | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="MiKee | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/msp99000/">
-    <img align="left" alt="Hillary Nyakundi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="MiKee | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:msp99000@gmail.com">
     <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
@@ -49,6 +48,10 @@
 
 <br />
 <br />
+
+<p align="center">
+  <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact)
 
