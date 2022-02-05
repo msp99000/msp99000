@@ -58,7 +58,7 @@
   <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact) -->
 
 <!-- <details>
 <summary>📈 My Github Stats</summary>
