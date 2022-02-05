@@ -8,29 +8,14 @@
 <!-- ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤! -->
 
 
-- 🔭 I’m currently working on Machine Learning/Deep Learning/AI & OpenSource
-- 🌱 I’m currently learning how to grow as a developer
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with learning how to use OpenSource forums
+- 🔭 I’m currently working on projects the field of Computer Vision and Natural Language Processing
+- 🌱 I’m currently learning how to grow as a developer in Open Source community
+- 👯 I’m looking to collaborate with other people in Machine Learning/Deep Learning/AI
+- 🤔 I’m also looking for help with learning how to use OpenSource forums
 - 💬 Ask me anything about tech and I bet I will answer you 
 - ⚡ Fun fact: I love photography
 - ✍ Read my articles @ [Hashnode](https://mikee.hashnode.dev/),  [Dev](https://dev.to/msp99000),  [FreeCode Camp](https://www.freecodecamp.org/msp99000)
 
-
-### Connect with me:  
-
-<a href="https://linkedin.com/in/msp99000">
-    <img align="left" alt="MiKee | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/msp99000">
-    <img align="left" alt="MiKee | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/msp99000/">
-    <img align="left" alt="MiKee | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:msp99000@gmail.com">
-    <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
-  </a>
  
 <br />
 
@@ -52,6 +37,21 @@
 
 <br />
 <br />
+
+### Connect with me:  
+
+<a href="https://linkedin.com/in/msp99000">
+    <img align="left" alt="MiKee | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/msp99000">
+    <img align="left" alt="MiKee | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/msp99000/">
+    <img align="left" alt="MiKee | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:msp99000@gmail.com">
+    <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
+  </a>
 
 <!-- <p align="center">
   <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
