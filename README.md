@@ -36,7 +36,7 @@
 <br />
 
 <!-- <a align= "center" href="https://github.com/msp99000"> -->
-<img align="right" alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
+<img align="left" alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
 <!-- </a> -->
 <!-- </p> -->
 <img height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
