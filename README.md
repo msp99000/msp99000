@@ -5,13 +5,13 @@
          width="50" /> I'm MiKee</h1>
 
 
-- 🔭 I’m currently working on projects in the field of Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning how to grow as a developer in Open Source community
-- 👯 I’m looking to collaborate with other people in Machine Learning/Deep Learning/AI
-- 🤔 I’m also looking for help with learning how to use OpenSource forums
-- 💬 Ask me anything about tech and I bet I will answer you 
-- ⚡ Fun fact: I love photography
-- ✍ Read my articles @ [Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000) 
+- 🔭 I’m currently working on projects in the field of **Computer Vision** & **Natural Language Processing**
+- 🌱 I’m currently learning how to grow as a developer in **Open Source** community
+- 👯 I’m looking to collaborate with other people in **Machine Learning & AI**
+- 🤔 I’m also looking for help with learning how to use OpenSource Forums
+- 💬 Ask me anything about tech & I will answer you 
+- ⚡ Fun fact: I love Photography
+- ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
 <br />
 
 ### My GitHub Stats 
