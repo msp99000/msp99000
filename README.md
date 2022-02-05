@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
-         width="50" /> I'm MiKee, ML Practitioner</h1>
+         width="50" /> I'm MiKee</h1>
 <!-- ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤! -->
 
 
@@ -36,7 +36,7 @@
 <br />
 
 <!-- <a align= "center" href="https://github.com/msp99000"> -->
-<img alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
+<img align="right" alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
 <!-- </a> -->
 <!-- </p> -->
 <img height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
