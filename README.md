@@ -4,8 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></h1>
-## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤!
+         width="45" /> I'm a ML Practitioner, Technical Writer ✍, Open-Source & Python ❤!</h1>
+<!-- ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤! -->
 
 
 - 🔭 I’m currently working on ... Python & Django, OpenSource
