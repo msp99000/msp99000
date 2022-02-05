@@ -8,7 +8,7 @@
 <!-- ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤! -->
 
 
-- 🔭 I’m currently working on projects the field of Computer Vision and Natural Language Processing
+- 🔭 I’m currently working on projects in the field of Computer Vision and Natural Language Processing
 - 🌱 I’m currently learning how to grow as a developer in Open Source community
 - 👯 I’m looking to collaborate with other people in Machine Learning/Deep Learning/AI
 - 🤔 I’m also looking for help with learning how to use OpenSource forums
