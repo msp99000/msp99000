@@ -35,10 +35,10 @@
  
 <br />
 
-<a align= "center" href="https://github.com/msp99000">
+<!-- <a align= "center" href="https://github.com/msp99000"> -->
 <img alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
-</a>
-</p>
+<!-- </a> -->
+<!-- </p> -->
 <img height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
 
 ### Languages and Tools:
@@ -55,15 +55,15 @@
 <br />
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact)
 
-<details>
+<!-- <details>
 <summary>📈 My Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&theme=radical" alt="msp99000" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&theme=radical" alt="msp99000" /> -->
  
  ![Visitor Count](https://profile-counter.glitch.me/{msp99000}/count.svg)
 
