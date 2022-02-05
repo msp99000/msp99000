@@ -35,13 +35,11 @@
  
 <br />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
-<p> -->
 <a align= "center" href="https://github.com/msp99000">
 <img alt= "stats card" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
- </a>
+</a>
 </p>
-<img height="400px" width="800" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
+<img height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
 
 ### Languages and Tools:
 
