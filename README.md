@@ -28,7 +28,7 @@
     <img align="left" alt="Hillary Nyakundi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:msp99000@gmail.com">
-    <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
  
 <br />
@@ -47,12 +47,12 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larymak&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact)
 
 <details>
 <summary>📈 My Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=radical" alt="larymak" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&theme=radical" alt="msp99000" />
  
- ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{msp99000}/count.svg)
 
 </details>
