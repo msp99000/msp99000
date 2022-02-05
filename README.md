@@ -53,16 +53,3 @@
     <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
   </a>
 
-<!-- <p align="center">
-  <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msp99000&layout=compact) -->
-
-<!-- <details>
-<summary>📈 My Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&theme=radical" alt="msp99000" /> -->
- 
- ![Visitor Count](https://profile-counter.glitch.me/{msp99000}/count.svg)
-
-</details>
