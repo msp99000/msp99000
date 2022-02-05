@@ -9,13 +9,12 @@
 
 
 - 🔭 I’m currently working on Machine Learning/Deep Learning/AI & OpenSource
-- 🌱 I’m currently learning how to grow as a developer 😊
+- 🌱 I’m currently learning how to grow as a developer
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning how to use OpenSource forums
-- 💬 Ask me about anything in tech I bet I will answer 😂 
+- 💬 Ask me anything about tech and I bet I will answer you 
 - ⚡ Fun fact: I love photography
-- 🎸 Would love: To know how to play guitar
-- ✍ Read my articles @ [Hashnode](https://mikee.hashnode.dev/), [Dev](https://dev.to/msp99000), [FreeCode Camp](https://www.freecodecamp.org/msp99000)
+- ✍ Read my articles @ [Hashnode](https://mikee.hashnode.dev/),  [Dev](https://dev.to/msp99000),  [FreeCode Camp](https://www.freecodecamp.org/msp99000)
 
 
 ### Connect with me:  
