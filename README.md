@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
-         width="50" /> , I'm MiKee. Tech Enthusiast & a self taught developer </h1>
+         width="50" /> I'm MiKee </h1>
 
 
 - 🔭 I’m currently working on projects in the field of **Computer Vision** and **Natural Language Processing**
