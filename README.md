@@ -54,3 +54,6 @@
     <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
   </a>
 
+<p align="center">
+  <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
