@@ -24,8 +24,8 @@
 
 <p>      
 <a align="left" href="https://github.com/msp99000">
-<img align="left" alt= "stats card" height="300x" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=github-light"/>
-<img align="left" width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
+<img align="left" alt= "stats card" height="400x" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=github-light"/>
+<img align="left" width="480" height="400" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </a>
 </p>  
 
