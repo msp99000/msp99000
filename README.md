@@ -18,10 +18,8 @@
   <a href="https://twitch.tv/msp99000"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>  
-
-## My GitHub Stats   
-
+</p>
+## My GitHub Stats
 <p>
 <a align="left" href="https://github.com/msp99000">
 <img align="left" alt= "stats card" height="350" width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=github-light"><br />
