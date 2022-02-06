@@ -12,8 +12,7 @@
 - 💬 Ask me anything about tech and I will answer you 
 - ⚡ Fun fact: I love Photography
 - ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
-<br />
-
+<br />  
 <p>
   <h3> Connect with Me </h3>
   <a href="msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -22,17 +21,17 @@
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-<p>
+<p>  
 
 ## My GitHub Stats 
-
+         
 <p>
 <a align="left" href="https://github.com/msp99000">
 <img align="left" alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
 </a>
 </p>
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" /> 
-<br/>
+<br/>  
 
 ### Languages and Tools:
 <p>
@@ -46,10 +45,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 </p>
 <br />
-<br />
+<br />  
 
 
-### Connect with me:  
+<!-- ### Connect with me:  
 <p>
 <a href="https://linkedin.com/in/msp99000">
     <img align="left" alt="MiKee | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -63,7 +62,7 @@
   <a href="mailto:msp99000@gmail.com">
     <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
   </a>
-</p>
+</p> -->
   
   
 <!-- Commented out section starts
