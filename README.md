@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love Photography
 - ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
 - Connect with me on :point_down:
-<br />  
 <p>
   <a href="msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/msp99000"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -23,7 +22,8 @@
 <p>  
 ## My GitHub Stats 
 <a align="left" href="https://github.com/msp99000">
-<img align="left" alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical"  >
+<img align="left" alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical"><br>
+<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
 </a>
 </p>  
-<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"  />
+
