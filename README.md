@@ -21,7 +21,10 @@
 <img alt= "stats card" height="250px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
 </a>
 </p>
-<img height="250px" width="500" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" />
+
+<!-- <img height="250px" width="500" src="https://github-readme-stats.vercel.app/api?username=msp99000&count_private=true&theme=radical&show_icons=true" /> -->
+
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 
 
 
@@ -53,7 +56,15 @@
   <a href="mailto:msp99000@gmail.com">
     <img align="left" alt="MiKee | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> 
   </a>
+  
+  
+  
+<!-- Commented out section starts
+  
 
 <p align="center">
   <img src="https://github.com/msp99000/msp99000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
+Commented out section ends -->
