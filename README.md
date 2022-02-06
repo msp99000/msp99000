@@ -25,7 +25,7 @@
 <p>      
 <a align="left" href="https://github.com/msp99000">
 <img align="left" alt= "stats card" height="250x" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=github-light" />
-<img align="left" width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=beufy&show_icons=true">
+<img align="left" width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </a>
 </p>  
 
