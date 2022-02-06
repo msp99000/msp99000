@@ -20,8 +20,8 @@
 <a align= "center" href="https://github.com/msp99000">
 <img alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical">
 </a>
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" />
 </p>
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" /> 
 
 
 
