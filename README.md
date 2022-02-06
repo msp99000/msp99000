@@ -1,8 +1,8 @@
 
-<h1 align="left">Hello, World!  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h2 align="left">Hello, World!  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
-         width="40" /></h1>
+         width="40" /></h2>
 
 - 🔭 I’m currently working on projects in the field of **Computer Vision** and **Natural Language Processing**
 - 🌱 I’m currently learning how to grow as a developer in **Open Source** community
