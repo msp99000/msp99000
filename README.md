@@ -19,12 +19,12 @@
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-<p>
-</br>
+
 ## My GitHub Stats
-         
+
+<p>      
 <a align="left" href="https://github.com/msp99000">
-<img align="left" alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical"></br>
+<img align="left" alt= "stats card" height="165px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=radical"><br />
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
 </a>
 </p>  
