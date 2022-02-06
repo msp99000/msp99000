@@ -20,6 +20,6 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-    <img height="250" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default">
+    <img height="250" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
     <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </p>
