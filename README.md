@@ -1,8 +1,8 @@
 
-<h2 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="34"
-         width="34" /></h2>
+         height="40"
+         width="40" /></h1>
 
 - 🔭 I’m currently working on projects in the field of **Computer Vision** and **Natural Language Processing**
 - 🌱 I’m currently learning how to grow as a developer in **Open Source** community
@@ -20,7 +20,7 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-<h2>My GitHub Stats  :chart_with_upwards_trend:</h2>         
-<img height="300" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
+<h2>My GitHub Stats   :chart_with_upwards_trend:</h2>         
+<img align="center" height="300" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
 <img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </p>
