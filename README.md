@@ -23,10 +23,10 @@
 <h2>My GitHub Stats   :chart_with_upwards_trend:</h2>
 <a href="https://github.com/msp99000">
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
-<img width="64%" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github"><br>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msp99000&theme=github">
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github">
 <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msp99000&theme=github">
 </a>
 </p>
