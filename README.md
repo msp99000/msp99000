@@ -20,7 +20,7 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-    <h2> :chart_with_upwards_trend: My GitHub Stats </h2>
-    <img height="200" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
-    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
+    <h3>My GitHub Stats  :chart_with_upwards_trend:</h3>
+    <a><img height="100" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"></a>
+    <a><img height="100" width="200" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true"></a>
 </p>
