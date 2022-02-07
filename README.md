@@ -1,5 +1,5 @@
 
-<h1 align="left"><Hello, World!/>   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40" /></h1>
@@ -19,7 +19,7 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-<h1>My GitHub Stats  📈 </h1>
+<h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
 <!-- <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msp99000&theme=github"> -->
