@@ -20,7 +20,7 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-<h2>My GitHub Stats   📊 </h2>
+<h1>My GitHub Stats  📈 </h1>
 <a href="https://github.com/msp99000">
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
 <!-- <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msp99000&theme=github"> -->
