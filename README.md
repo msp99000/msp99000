@@ -21,6 +21,6 @@
 </p>
 <p>
 <h2>My GitHub Stats   :chart_with_upwards_trend:</h2>         
-<img align="center" height="300" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
-<img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
+<img align="center" height="250" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
+<img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </p>
