@@ -11,16 +11,16 @@
 - 💬 Ask me anything about tech and I will answer you 
 - ⚡ Fun fact: I love Photography
 - ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
-- Connect with me on :point_down:
+- 🔗 Connect with Me on 👇
 <p>
-  <a href="msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/msp99000"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/msp99000"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-<h2>My GitHub Stats   :chart_with_upwards_trend:</h2>
+<h2>My GitHub Stats   📊 </h2>
 <a href="https://github.com/msp99000">
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
 <!-- <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msp99000&theme=github"> -->
