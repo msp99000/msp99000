@@ -19,8 +19,10 @@
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+<p>
 <h2>My GitHub Stats   :chart_with_upwards_trend:</h2>
 <a href="https://github.com/msp99000">
-<img align="center" height="250" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
-<img height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
+<img height="300" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
+<img height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
 </a>
+</p>
