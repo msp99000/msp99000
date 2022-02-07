@@ -24,7 +24,7 @@
 
 <a href="https://github.com/msp99000">
          
-  <img height="250" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
-  <img height="250" width="380" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
+  <img height="300" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true">
+  <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=msp99000&theme=buefy&show_icons=true">
                                                                                                                             
 </a>
