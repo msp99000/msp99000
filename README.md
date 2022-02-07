@@ -27,6 +27,5 @@
 <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
 <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
-<img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msp99000&theme=github">
 </a>
 </p>
