@@ -4,9 +4,9 @@
          height="40"
          width="40" /></h1>
 
-- 🔭 I’m currently working on projects in the field of **Computer Vision** and **Natural Language Processing**
-- 🌱 I’m currently learning how to grow as a developer in **Open Source** community
-- 👯 I’m looking to collaborate with other people in **Machine Learning / AI**
+- 🔭 I’m currently working on projects in **Computer Vision** and **Natural Language Processing**
+- 📱 I also develop **Android / iOS** apps using **Flutter** framework
+- 👯 I’m open to collaborating with other people in **Machine Learning / AI**
 - 💬 Ask me anything about **Tech** and I will answer you 
 - ⚡ Fun fact: I love **Photography**
 - ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
