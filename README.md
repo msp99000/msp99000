@@ -4,7 +4,7 @@
          height="40"
          width="40" /></h1>
 
-- 🔭 I’m currently working on projects in **Computer Vision** and **Natural Language Processing**
+- 🔭 I’m currently working on projects in **Computer Vision** and **NLP**
 - 📱 I also develop **Android / iOS** apps using **Flutter** framework
 - 👯 I’m open to collaborating with other people in **Machine Learning / AI**
 - 💬 Ask me anything about **Tech** and I will answer you 
