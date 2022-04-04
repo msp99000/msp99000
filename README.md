@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on projects in **Computer Vision** and **NLP**
 - 📱 I also develop **Android / iOS** apps using **Flutter** Framework
-<!-- - 💬 Ask me anything about **Tech** and I will answer you  -->
 - ⚡ Fun fact: I love **Photography**
 - ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
 - 🔗 Connect with Me on 👇
