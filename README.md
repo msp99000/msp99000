@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on projects in **Computer Vision** and **NLP**
 - 📱 I also develop **Android / iOS** apps using **Flutter** Framework
 - ⚡ Fun fact: I love **Photography**
-- ✍ Read my articles at **[Hashnode](https://mikee.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [FreeCodeCamp](https://www.freecodecamp.org/msp99000)**
+- ✍ Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
 - 🔗 Connect with Me on 👇
 <p>
   <a href="mailto:msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
