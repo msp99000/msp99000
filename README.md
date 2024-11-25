@@ -19,7 +19,7 @@
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### Latest Blog Posts
+<h2>My Latest Blog Posts 🗒️ </h2>
 
 | [![MLFlow-ing Your Way to Better Experiment Tracking : A Guide to Logging Your Every Move](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iTgzTiZZXNRMx1RV3RRGqg.jpeg?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://towardsdev.com/mlflow-d4722c765c15) | [![Dockerizing ML Models: A Guide to Containerizing Your Model and Making it Production-Ready with a Smile](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hBR0H3h0ok8_LpyrabTENw.png?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://msp99000.medium.com/dockerizing-ml-models-a-guide-to-containerizing-your-model-and-making-it-production-ready-with-a-c450a3f281b8) |
 | --- | --- |
