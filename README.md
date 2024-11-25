@@ -1,5 +1,5 @@
 <div>
-<image width=50% src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
+<image src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
 </div>
 <h1 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -29,8 +29,8 @@
 <p>
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=tokyonight-duo&show_icons=true"><br>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=blueberry-duo&show_icons=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=msp99000&show_icons=true&locale=en" alt="M S P">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
 </a>
