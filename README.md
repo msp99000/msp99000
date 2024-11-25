@@ -26,17 +26,15 @@
 | [MLFlow-ing Your Way to Better Experiment Tracking : A Guide to Logging Your Every Move](https://towardsdev.com/mlflow-d4722c765c15) | [Dockerizing ML Models: A Guide to Containerizing Your Model and Making it Production-Ready with a Smile](https://msp99000.medium.com/dockerizing-ml-models-a-guide-to-containerizing-your-model-and-making-it-production-ready-with-a-c450a3f281b8) |
 
 
-<!--
 <p>
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
 </a>
 </p>
--->
 
 <h3 align="center">
   My Tech Stack
