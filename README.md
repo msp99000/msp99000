@@ -25,27 +25,29 @@
 | --- | --- |
 | [MLFlow-ing Your Way to Better Experiment Tracking : A Guide to Logging Your Every Move](https://towardsdev.com/mlflow-d4722c765c15) | [Dockerizing ML Models: A Guide to Containerizing Your Model and Making it Production-Ready with a Smile](https://msp99000.medium.com/dockerizing-ml-models-a-guide-to-containerizing-your-model-and-making-it-production-ready-with-a-c450a3f281b8) |
 
+
+<!--
 <p>
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
-         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msp99000&show_icons=true&locale=en&layout=compact" alt="M S P" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
 </a>
 </p>
+-->
 
 <h3 align="center">
   My Tech Stack
 </h3>
  
 <p align=center>
-<!--   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" /> -->
+  <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
-<!--   <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" /> -->
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -55,8 +57,8 @@
   <img alt="scipy" src="https://img.shields.io/badge/-SciPy-0A9EDC?style=for-the-badge&logo=scipy&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<!--   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /> -->
-<!--   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 
