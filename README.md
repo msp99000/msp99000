@@ -1,11 +1,13 @@
-
+<div>
+<image src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
+</div>
 <h1 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40" /></h1>
 
-- 🔭 I’m currently working on projects in **Computer Vision** and **NLP**
-- 📱 I also develop **Android / iOS** apps using **Flutter** Framework
+- 🔭 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
+- 📱 I also develop **Android / iOS** apps using **Flutter**
 - ⚡ Fun fact: I love **Photography**
 - ✍ Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
 - 🔗 Connect with Me on 👇
