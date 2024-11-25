@@ -29,7 +29,7 @@
 <p>
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=default&show_icons=true"><br>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=tokyonight-duo&show_icons=true"><br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msp99000&theme=github">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msp99000&theme=github"><br>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=github"><br>
