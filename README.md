@@ -30,7 +30,7 @@
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
          <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=msp99000&theme=blueberry-duo&show_icons=true"><br>
-         <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=city_lights"><br>
+         <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msp99000&theme=vue"><br>
 </a>
 </p>
 
