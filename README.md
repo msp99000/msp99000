@@ -18,11 +18,13 @@
   <a href="https://linkedin.com/in/msp99000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msp99000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+
 ### Latest Blog Posts
 
 | [![MLFlow-ing Your Way to Better Experiment Tracking : A Guide to Logging Your Every Move](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iTgzTiZZXNRMx1RV3RRGqg.jpeg?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://towardsdev.com/mlflow-d4722c765c15) | [![Dockerizing ML Models: A Guide to Containerizing Your Model and Making it Production-Ready with a Smile](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hBR0H3h0ok8_LpyrabTENw.png?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)]([https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact](https://msp99000.medium.com/dockerizing-ml-models-a-guide-to-containerizing-your-model-and-making-it-production-ready-with-a-c450a3f281b8)) |
 | --- | --- |
 | [Journey: Learning JavaScript](https://utkarshumre.hashnode.dev/my-journey-as-a-beginner-how-i-learned-javascript-and-built-my-first-project) Learn about my JavaScript journey and creating projects. | [Open Source Impact](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact) Discover open source contributions and their impact. |
+
 <p>
 <h2>My GitHub Stats  📈 </h2>
 <a href="https://github.com/msp99000">
