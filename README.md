@@ -11,7 +11,7 @@
          width="40" /></h1>
 
 - 🔭 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
-- 📱 I also develop **Android / iOS** apps using **Flutter**
+- 📱 I also develop **Android / iOS** apps with **Flutter**
 - ⚡ Fun fact: I love **Photography**
 - ✍ Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
 - 🔗 Connect with Me on 👇
