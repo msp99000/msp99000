@@ -10,10 +10,10 @@
          height="40"
          width="40" /></h1>
 
-- 🔭 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
+- 🌟 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
 - 📱 I also develop **Android / iOS** apps with **Flutter**
-- ⚡ Fun fact: I love **Photography**
-- ✍ Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
+- 😎 Fun fact: I love **Photography**
+- 📗 Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
 - 🔗 Connect with Me on 👇
 <p>
   <a href="mailto:msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -63,7 +63,7 @@
 </h3>
  
 <p align=center>
-  <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
+<!--   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" /> -->
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
