@@ -10,11 +10,11 @@
          height="40"
          width="40" /></h1>
 
-- 🌟 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
-- 📱 I also develop **Android / iOS** apps with **Flutter**
-- 😎 Fun fact: I love **Photography**
-- 📗 Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
-- 🔗 Connect with Me on 👇
+  🌟 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations
+  📱 I also develop **Android / iOS** apps with **Flutter**
+  😎 Fun fact: I love **Photography**
+  📗 Read my articles at **[Hashnode](https://msp99000.hashnode.dev/)  |  [Dev](https://dev.to/msp99000)  |  [Medium](https://medium.com/@msp99000)**
+  🔗 Connect with Me on 👇
 <p>
   <a href="mailto:msp99000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/meuralnetwork"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
